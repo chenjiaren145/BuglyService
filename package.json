@@ -1,0 +1,12 @@
+{
+  "name": "bugly-service",
+  "version": "1.0.0",
+  "description": "接受bugly发送的数据，处理后转发给企业微信",
+  "main": "buglyService.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jackson",
+  "license": "ISC",
+  "dependencies": {}
+}
