@@ -113,5 +113,4 @@ const sendWeChat = (json) => {
 };
 
 // 终端打印如下信息
-console.log("Server running at https://58.87.106.184:8888");
 // console.log('Server running at http://127.0.0.1:8888');
